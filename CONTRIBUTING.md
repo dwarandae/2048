@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request.
 
 Please follow the house rules to have a bigger chance of your contribution being merged.
@@ -21,7 +21,6 @@ Please follow the house rules to have a bigger chance of your contribution being
 We have to be conservative with the core game. This means that some modifications won't be merged, or will have to be evaluated carefully before being merged:
 
  - Undo/redo features
- - Aquí hice este cambio
  - Save/reload features
  - Changes to how the tiles look or their contents
  - Changes to the layout
